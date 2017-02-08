@@ -4,7 +4,7 @@
 
 ## Background
 
-Indoor localization or indoor positioning systems are systems with the ability to locate objects or people inside a building using radio waves, magnetic fields, acoustic signals, or other sensory information collected by mobile devices. Those systems are an integral part of many applications location-based applications and services including: environmental monitoring, civil services, military purposes, etc.
+Indoor localization or indoor positioning systems are systems with the ability to locate objects or people inside a building using radio waves, magnetic fields, acoustic signals, or other sensory information collected by mobile devices. Those systems are an integral part of many location-based applications and services including: environmental monitoring, civil services, military purposes, etc.
 <p align="center">
 <img src="https://cloud.githubusercontent.com/assets/7999611/22739126/8e0b5d1e-ee0a-11e6-92b9-bcaa66138680.png">
 </p>
